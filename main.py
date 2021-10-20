@@ -54,5 +54,3 @@ if __name__ == '__main__':
     get_laster('rammedata.txt')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-#matrix
